@@ -20,8 +20,8 @@
 See www.necjar.com/hhh for details.
 
 <p align="center">
-  <a href="https://necjar.com/hhh">
-    <img src="https://necjar.com/j/materials/icons/icon-hhh.jpg" alt="HHH" width="auto" height="auto" />
+  <a href="https://necjar.com/headheldhigh">
+    <img src="https://necjar.com/j/materials/icons/icon-heaheldihigh.jpg" alt="HHH" width="auto" height="auto" />
   </a>
 </p>
 
