@@ -21,7 +21,7 @@ See www.necjar.com/hhh for details.
 
 <p align="center">
   <a href="https://necjar.com/headheldhigh">
-    <img src="https://necjar.com/icons/icon-hhh.jpg" alt="HHH" width="auto" height="auto" />
+    <img src="https://necjar.com/icons/hhh.jpg" alt="HHH" width="auto" height="auto" />
   </a>
 </p>
 
