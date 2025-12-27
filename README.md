@@ -17,7 +17,7 @@
 # HEAD HELD HIGH
 > Head Held High is an original graphic novels created by the man behind the NECjAR.
 
-See www.necjar.com/hhh for details.
+See www.necjar.com/headheldhigh for details.
 
 <p align="center">
   <a href="https://necjar.com/headheldhigh">
@@ -45,20 +45,20 @@ The man behind the [NECjAR](https://necjar.com).
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/NECjAR/HHH/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NECjAR/HEADHELDHIGH/issues) for a list of proposed features (and known issues).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/HHH.svg?style=for-the-badge
-[contributors-url]: https://github.com/NECjAR/HHH/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NECjAR/HHH.svg?style=for-the-badge
-[forks-url]: https://github.com/NECjAR/HHH/network/members
-[stars-shield]: https://img.shields.io/github/stars/NECjAR/HHH.svg?style=for-the-badge
-[stars-url]: https://github.com/NECjAR/HHH/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NECjAR/HHH.svg?style=for-the-badge
-[issues-url]: https://github.com/NECjAR/HHH/issues
-[license-shield]: https://img.shields.io/github/license/NECjAR/HHH.svg?style=for-the-badge
-[license-url]: https://github.com/NECjAR/HHH/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/HEADHELDHIGH.svg?style=for-the-badge
+[contributors-url]: https://github.com/NECjAR/HEADHELDHIGH/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NECjAR/HEADHELDHIGH.svg?style=for-the-badge
+[forks-url]: https://github.com/NECjAR/HEADHELDHIGH/network/members
+[stars-shield]: https://img.shields.io/github/stars/NECjAR/HEADHELDHIGH.svg?style=for-the-badge
+[stars-url]: https://github.com/NECjAR/HEADHELDHIGH/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NECjAR/HEADHELDHIGH.svg?style=for-the-badge
+[issues-url]: https://github.com/NECjAR/HEADHELDHIGH/issues
+[license-shield]: https://img.shields.io/github/license/NECjAR/HEADHELDHIGH.svg?style=for-the-badge
+[license-url]: https://github.com/NECjAR/HEADHELDHIGH/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
 [necjar]: https://necjar.com
